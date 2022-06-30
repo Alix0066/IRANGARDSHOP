@@ -919,7 +919,7 @@ span.feature-review {margin-left: 10px;}
 ===============================*/
 #scroll-Top  .return-to-top {
     position: fixed;
-    right: 30px;
+    left: 30px;
     bottom: 30px;
     display: none;
     width: 40px;
